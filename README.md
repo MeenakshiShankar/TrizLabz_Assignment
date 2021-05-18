@@ -2,7 +2,7 @@
 This repo is made for the purpose of submitting the Assignment Code for Internship at TrizLabz.
 Repo only contains the code files,all the associated diagrams and hardware details are shared in the PPT.
 
-Contributors to Rep
+Contributors to Repo
 
 * [Afrin Ameerkhan]()
 * [Reshma Ajith]()
