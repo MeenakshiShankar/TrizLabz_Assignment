@@ -18,7 +18,7 @@ Robot has to detect all the obstacles around it within a radius of 5m.
 --> You are provided with a Arduino board, select a suitable sensor and understand how it can be interfaced with Arduino. Implement a software module which will use
 the information from the sensors and provide the position of the obstacles.
 
-
+<!-- Built With-->
 ### Built With
 
 * [Arduino IDE](https://www.arduino.cc/en/software/)
@@ -35,5 +35,6 @@ The submitted code uses the following library additionally:
   
 Download the LiDAR_Processing_Plot_18-05-2021 file and open it with Processing IDE to obtain the plot of the scan made by the LiDAR.
 
+<!-- Code Explaination-->
 ### Code Explaination
  Kindly refer to the Explanation.txt file as reference for detailed explaination to code.
