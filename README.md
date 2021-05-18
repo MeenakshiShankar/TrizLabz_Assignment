@@ -31,7 +31,7 @@ Download the LiDAR_Stepper_18-05-2021.ino file and open it with Arduino IDE.
 
 The submitted code uses the following library additionally:
 * [VL53L0X](https://github.com/pololu/vl53l0x-arduino)
-  This github was added as library to run and compile the code.
+  This github repo was added as library to run and compile the code.
   
 Download the LiDAR_Processing_Plot_18-05-2021 file and open it with Processing IDE to obtain the plot of the scan made by the LiDAR.
 
