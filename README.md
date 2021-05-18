@@ -1,5 +1,6 @@
 # TrizLabz_Assignment
-This repo is made for the purpose of submitting the Assignment Code for Internship at TrizLabz
+This repo is made for the purpose of submitting the Assignment Code for Internship at TrizLabz.
+Repo only contains the code files all the associated diagrams and hardware details are shared in the PPT.
 
 Contributors to Rep
 
@@ -20,8 +21,18 @@ the information from the sensors and provide the position of the obstacles.
 
 ### Built With
 
-* [Arduino IDE]()
-* [Processing]()
+* [Arduino IDE](https://www.arduino.cc/en/software/)
+* [Processing](https://processing.org/download/)
 
+<!-- GETTING STARTED -->
+## Getting Started
+
+Download the LiDAR_Stepper_18-05-2021.ino file and open it with Arduino IDE.
+
+The submitted code uses the following library additionally:
+* [VL53L0X](https://github.com/pololu/vl53l0x-arduino)
+  This github was added as library to run and compile the code.
+  
+Download the LiDAR_Processing_Plot_18-05-2021 file and open it with Processing IDE to obtain the plot of the scan made by the LiDAR.
 
 
