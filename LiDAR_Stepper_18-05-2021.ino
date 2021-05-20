@@ -66,7 +66,13 @@ void setup() {
   //  sensor.setMeasurementTimingBudget(200000);
   #endif  
 
-//Controlling the mobile bot
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+   
+   //Controlling the mobile bot
 
   while(Serial.available())
   {
@@ -117,12 +123,6 @@ void setup() {
       
     }
   }
-
-
-}
-
-void loop() {
-  // put your main code here, to run repeatedly:
 
    if (loop_starts) //We reset angle when the magnet is detected on D8
   {
